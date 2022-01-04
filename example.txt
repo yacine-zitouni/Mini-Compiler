@@ -1,0 +1,9 @@
+PROGRAM TEST
+ PDEC
+  CM ,TTF:Pfloat;
+
+
+ PINST
+   BEGIN
+   	TTF<-- 3;
+   END
